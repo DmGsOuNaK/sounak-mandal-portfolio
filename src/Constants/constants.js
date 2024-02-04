@@ -91,25 +91,25 @@ export const navLinks = [
 
 const projects = [
   {
-    name: 'Library Management System',
-    description: 'It helps users to perform CRUD operations. In addition to the advanced search, book issue , Serialisation and Deserialisation',
+    name: 'Medicure | Medicine Guidance Web Application',
+    description: 'Developed a Medicine Recommendation System using machine learning algorithms to analyze drug data. Provided alternative medication suggestions based on user queries through a user-friendly Streamlit web interface',
     image: memoryGame,
-    source_code_link: 'https://github.com/DmGsOuNaK/Library-Management-',
-    demo_link: 'https://github.com/DmGsOuNaK/Library-Management-',
+    source_code_link: 'https://github.com/DmGsOuNaK/medicine-recommendation-system',
+    demo_link: 'https://github.com/DmGsOuNaK/medicine-recommendation-system',
   },
   {
-    name: 'Split and Happy',
-    description: 'It scans handwritten bills and split it among the participant.',
+    name: 'Automated Tagging System for Stack Overflow',
+    description: 'Revolutionized content categorization on Stack Overflow by employing machine learning algorithms and real-time tagging. Enhanced efficiency, accuracy, and adaptability to evolving community trends',
     image: pawsitivePrototype,
-    source_code_link: 'https://github.com/DmGsOuNaK/Split-and-Happy',
-    demo_link: 'https://github.com/DmGsOuNaK/Split-and-Happy',
+    source_code_link: 'https://github.com/DmGsOuNaK/Stack-Overflow-Question-tag',
+    demo_link: 'https://github.com/DmGsOuNaK/Stack-Overflow-Question-tag',
   },
   {
-    name: 'Banking Chatbot',
-    description: 'Can answer any kind of bank related queries',
+    name: 'Breast Cancer Detector API',
+    description: 'Developed a model that takes a 64 x 64 PNG image file extracted from the whole slide image as input and outputs the predicted probability of the image containing mitosis.',
     image: calculator,
-    source_code_link: '#',
-    demo_link: '#',
+    source_code_link: 'https://github.com/DmGsOuNaK/Breast_Cancer-Detector',
+    demo_link: 'https://github.com/DmGsOuNaK/Breast_Cancer-Detector',
   },
 ];
 
