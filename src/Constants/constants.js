@@ -113,6 +113,7 @@ const projects = [
   },
 ];
 
+
 const memoji = {
   image: [avatar],
 };
